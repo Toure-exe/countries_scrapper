@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2pHNP+epyYci5Xjh8Cvw8x+Wet6Uy2MufkMZSNC2cdw=",
+  "Source": "PageScrapper.API",
+  "BasePath": "_content/PageScrapper.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

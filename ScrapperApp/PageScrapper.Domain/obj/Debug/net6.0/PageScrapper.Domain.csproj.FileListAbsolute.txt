@@ -1,0 +1,12 @@
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\bin\Debug\net6.0\PageScrapper.Domain.deps.json
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\bin\Debug\net6.0\PageScrapper.Domain.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\bin\Debug\net6.0\PageScrapper.Domain.pdb
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.csproj.AssemblyReference.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.AssemblyInfoInputs.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.AssemblyInfo.cs
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\refint\PageScrapper.Domain.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\PageScrapper.Domain.pdb
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Domain\obj\Debug\net6.0\ref\PageScrapper.Domain.dll

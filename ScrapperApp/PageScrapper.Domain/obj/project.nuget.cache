@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKUC9b6ONkWIHk9zS9S4KJvrOLtPhdBaY+SKpoPYjKN/GMXklWP9QYTLt98XLMpoalIYczs1rTIQA1DPmKLDlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AK24730locadmin\\source\\repos\\ScrapperApp\\PageScrapper.Domain\\PageScrapper.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AK24730locadmin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

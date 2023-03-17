@@ -1,0 +1,17 @@
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Infrastructure.deps.json
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Infrastructure.runtimeconfig.json
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Infrastructure.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Infrastructure.pdb
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Domain.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\bin\Debug\net6.0\PageScrapper.Domain.pdb
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.AssemblyInfo.cs
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.csproj.CopyComplete
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\refint\PageScrapper.Infrastructure.dll
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.pdb
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\PageScrapper.Infrastructure.genruntimeconfig.cache
+C:\Users\AK24730locadmin\source\repos\ScrapperApp\PageScrapper.Infrastructure\obj\Debug\net6.0\ref\PageScrapper.Infrastructure.dll
